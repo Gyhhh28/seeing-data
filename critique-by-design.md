@@ -7,7 +7,7 @@ For this assignment, I picked a Makeover Monday chart about pet cats and how muc
 ## Step one: the visualization
 
 Original visualization: 
-<img width="2410" height="1624" alt="image" src="https://github.com/user-attachments/assets/14cd2bf7-f3a4-432c-a568-8592cae7bee7" />
+![Original Lazy Cats visualization](original_viz.png)
 
 I chose this visualization mostly because the topic is cute. Cats make people want to look at the chart before they even know what the data is about, which I think is valuable. At the same time, the original design made me curious about what the data was actually saying. I could see lots of cats and different shapes, but I could not quickly tell which cats changed the most between summer and winter.
 
@@ -23,7 +23,7 @@ My redesign focuses on making the comparison more direct. I decided to show each
 ## Step three: Sketch a solution
 Before making the final chart, I sketched out a connected dot plot. Each row would be one cat. Blue would stand for summer, orange would stand for winter, and the line between them would show how much the cat changed.
 
-<img width="1897" height="2774" alt="v1" src="https://github.com/user-attachments/assets/1387105c-9789-433b-a7f7-0453c0db8057" />
+![Initial digital wireframe](v1.png)
 
 This felt like a better fit for the data because the reader can compare the two seasons without having to decode cat shapes or guess what the vertical position means. I also sorted the cats by their winter-versus-summer difference. Cats near the top had a bigger increase in resting time during winter; cats near the bottom had a bigger increase during summer.
 
@@ -54,8 +54,7 @@ The chart shows that there is not one answer for every cat. Thirteen cats spent 
 
 I think this version is still simple enough for a general audience, but it is much easier to compare individual cats than the original illustration-based chart. The exact values are visible, the colors only represent season, and the line shows the size of each cat’s change.
 
-
-<img width="1897" height="3031" alt="final_version" src="https://github.com/user-attachments/assets/37d56b2c-d12b-4994-98e3-f19b50981ffd" />
+![Final redesign](final_version.png)
 
 
 ## References
