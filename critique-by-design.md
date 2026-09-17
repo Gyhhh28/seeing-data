@@ -6,7 +6,8 @@ For this assignment, I picked a Makeover Monday chart about pet cats and how muc
 
 ## Step one: the visualization
 
-Original visualization: <img width="2410" height="1624" alt="image" src="https://github.com/user-attachments/assets/14cd2bf7-f3a4-432c-a568-8592cae7bee7" />
+Original visualization: https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats
+<img width="2410" height="1624" alt="image" src="https://github.com/user-attachments/assets/14cd2bf7-f3a4-432c-a568-8592cae7bee7" />
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
