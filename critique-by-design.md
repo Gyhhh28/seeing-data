@@ -49,9 +49,12 @@ The useful criticisms were about readability rather than the main idea. One pers
 
 ## Step five: build the solution
 
-Both classmates understood the basic comparison without extra explanation, so the connected-dot format was working. They also came away with the same larger point: the cats do not all follow one seasonal pattern.
+For the final version, I kept the connected-dot idea but made a few changes based on the feedback. The subtitle now explains that the cats are sorted by seasonal difference. I also separated the chart into two groups: cats that rested more in winter and cats that rested more in summer. That makes the overall pattern easier to notice right away.
 
-The useful criticisms were about readability rather than the main idea. One person found the middle a little crowded, and the other did not immediately notice how the cats were sorted. For the final version, I added more spacing, made the sort order explicit in the subtitle, and separated cats that rested more in winter from cats that rested more in summer.
+The chart shows that there is not one answer for every cat. Thirteen cats spent more time sitting or lying down in winter, while fifteen did so in summer. Cat 22 had the largest increase in winter resting time, while Cat 2 had the largest increase in summer resting time.
+
+I think this version is still simple enough for a general audience, but it is much easier to compare individual cats than the original illustration-based chart. The exact values are visible, the colors only represent season, and the line shows the size of each cat’s change.
+
 
 <img width="1897" height="3031" alt="final_version" src="https://github.com/user-attachments/assets/37d56b2c-d12b-4994-98e3-f19b50981ffd" />
 
