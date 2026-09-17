@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://gyhhh28.github.io/seeing-data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique and Redesign: Lazy Cats
 
@@ -6,7 +6,7 @@ For this assignment, I picked a Makeover Monday chart about pet cats and how muc
 
 ## Step one: the visualization
 
-Original visualization: https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats
+Original visualization: 
 <img width="2410" height="1624" alt="image" src="https://github.com/user-attachments/assets/14cd2bf7-f3a4-432c-a568-8592cae7bee7" />
 
 I chose this visualization mostly because the topic is cute. Cats make people want to look at the chart before they even know what the data is about, which I think is valuable. At the same time, the original design made me curious about what the data was actually saying. I could see lots of cats and different shapes, but I could not quickly tell which cats changed the most between summer and winter.
@@ -30,10 +30,9 @@ This felt like a better fit for the data because the reader can compare the two 
 ## Step four: Test the solution
 
 Before sharing the draft, I asked each person three broad questions:
-
-What do you think this chart is showing?
-What is the main takeaway you notice?
-Is anything confusing or difficult to read?
+- What do you think this chart is showing?
+- What is the main takeaway you notice?
+- Is anything confusing or difficult to read?
 
 Results: 
 | Question | Interview 1 | Interview 2 |
@@ -60,9 +59,10 @@ I think this version is still simple enough for a general audience, but it is mu
 
 
 ## References
-https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats
-https://lazy-cats.netlify.app/
-https://bit.ly/4p0Omn3
+- [Lazy Cats](https://lazy-cats.netlify.app/)
+- [Makeover Monday: 2025 Week 47 — Lazy Cats](https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats)
+- [Figshare dataset: How lazy are pet cats really?](https://bit.ly/4p0Omn3)
+- [Stephen Few, Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 ## AI acknowledgements
 I used ChatGPT to help me work through the CSV fields, calculate resting time from propLying + propSitting, and think through possible chart designs. It also helped me create a first digital draft and revise the final layout after I received feedback. I checked the values in the final chart against the supplied dataset.
