@@ -14,7 +14,7 @@ I chose this visualization mostly because the topic is cute. Cats make people wa
 The dataset includes the same 28 cats in both seasons, so it gave me a clear way to make those comparisons more visible without losing the playful feeling of the original.
 
 ## Step two: the critique
-I completed the Data Visualization Effectiveness Profile in the Google Form. I gave the original chart credit for being visually interesting. The cats are fun to look at, and the colors make it easy to notice that some cats are indoor-only while others also go outside.
+I completed the Data Visualization Effectiveness Profile in the Google Form. I gave the original chart credit for being visually interesting. The cats are fun to look at, and the colors make it easy to notice that some cats are indoor-only while others also go outside. It's mainly aimed at cat owners or general readers rather than people doing formal research. The illustrations make it easy to approach, but the lack of clear labels and exact seasonal values makes it less useful for someone who wants to inspect the data closely.
 
 But the more I looked at it, the less sure I was what I was supposed to compare. I could not identify individual cats, and the chart does not show the summer and winter numbers separately. The vertical placement tells me whether a cat was lazier in winter or summer, but not how big that change was. It also uses color, cat shape, horizontal position, and vertical position all at the same time.
 
