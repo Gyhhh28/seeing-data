@@ -9,51 +9,57 @@ For this assignment, I picked a Makeover Monday chart about pet cats and how muc
 Original visualization: https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats
 <img width="2410" height="1624" alt="image" src="https://github.com/user-attachments/assets/14cd2bf7-f3a4-432c-a568-8592cae7bee7" />
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I chose this visualization mostly because the topic is cute. Cats make people want to look at the chart before they even know what the data is about, which I think is valuable. At the same time, the original design made me curious about what the data was actually saying. I could see lots of cats and different shapes, but I could not quickly tell which cats changed the most between summer and winter.
+
+The dataset includes the same 28 cats in both seasons, so it gave me a clear way to make those comparisons more visible without losing the playful feeling of the original.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+I completed the Data Visualization Effectiveness Profile in the Google Form. I gave the original chart credit for being visually interesting. The cats are fun to look at, and the colors make it easy to notice that some cats are indoor-only while others also go outside.
+
+But the more I looked at it, the less sure I was what I was supposed to compare. I could not identify individual cats, and the chart does not show the summer and winter numbers separately. The vertical placement tells me whether a cat was lazier in winter or summer, but not how big that change was. It also uses color, cat shape, horizontal position, and vertical position all at the same time.
+
+My redesign focuses on making the comparison more direct. I decided to show each cat twice—once for summer and once for winter—and connect the two values with a line. That way, a reader can see both the direction of the change and how large it is.
 
 ## Step three: Sketch a solution
+Before making the final chart, I sketched out a connected dot plot. Each row would be one cat. Blue would stand for summer, orange would stand for winter, and the line between them would show how much the cat changed.
+
+<img width="1897" height="2774" alt="v1" src="https://github.com/user-attachments/assets/1387105c-9789-433b-a7f7-0453c0db8057" />
+
+This felt like a better fit for the data because the reader can compare the two seasons without having to decode cat shapes or guess what the vertical position means. I also sorted the cats by their winter-versus-summer difference. Cats near the top had a bigger increase in resting time during winter; cats near the bottom had a bigger increase during summer.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Before sharing the draft, I asked each person three broad questions:
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+What do you think this chart is showing?
+What is the main takeaway you notice?
+Is anything confusing or difficult to read?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| --- | --- | --- |
+| What do you think this chart is showing? | It compares how much time each cat spent sitting or lying down in summer versus winter. | It shows the difference in resting time between summer and winter for 28 individual cats. |
+| What is the main takeaway you notice? | Many cats rested more in winter, but a substantial number actually rested less. Cat 2 appears to have the largest seasonal change. | There is no consistent pattern across all cats. Some become much lazier in winter, while others are more active in winter. |
+| Is anything confusing or difficult to read? | The middle section is slightly crowded because some values are very close together. | The colors and labels are clear, but it took a moment to realize that the cats are sorted by the size and direction of the seasonal change. |
 
 Synthesis: 
+Both classmates understood the basic comparison without extra explanation, so the connected-dot format was working. They also came away with the same larger point: the cats do not all follow one seasonal pattern.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The useful criticisms were about readability rather than the main idea. One person found the middle a little crowded, and the other did not immediately notice how the cats were sorted. For the final version, I added more spacing, made the sort order explicit in the subtitle, and separated cats that rested more in winter from cats that rested more in summer.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Both classmates understood the basic comparison without extra explanation, so the connected-dot format was working. They also came away with the same larger point: the cats do not all follow one seasonal pattern.
+
+The useful criticisms were about readability rather than the main idea. One person found the middle a little crowded, and the other did not immediately notice how the cats were sorted. For the final version, I added more spacing, made the sort order explicit in the subtitle, and separated cats that rested more in winter from cats that rested more in summer.
+
+<img width="1897" height="3031" alt="final_version" src="https://github.com/user-attachments/assets/37d56b2c-d12b-4994-98e3-f19b50981ffd" />
+
 
 ## References
-_List any references you used here._
+https://makeovermonday.vercel.app/dataset/2025-week-47-lazy-cats
+https://lazy-cats.netlify.app/
+https://bit.ly/4p0Omn3
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used ChatGPT to help me work through the CSV fields, calculate resting time from propLying + propSitting, and think through possible chart designs. It also helped me create a first digital draft and revise the final layout after I received feedback. I checked the values in the final chart against the supplied dataset.
