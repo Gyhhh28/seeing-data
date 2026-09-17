@@ -34,11 +34,12 @@ Before sharing the draft, I asked each person three broad questions:
 - What is the main takeaway you notice?
 - Is anything confusing or difficult to read?
 
-Results: 
+Results:
+
 | Question | Interview 1 | Interview 2 |
 | --- | --- | --- |
 | What do you think this chart is showing? | It compares how much time each cat spent sitting or lying down in summer versus winter. | It shows the difference in resting time between summer and winter for 28 individual cats. |
-| What is the main takeaway you notice? | Many cats rested more in winter, but a substantial number actually rested less. Cat 2 appears to have the largest seasonal change. | There is no consistent pattern across all cats. Some become much lazier in winter, while others are more active in winter. |
+| What is the main takeaway you notice? | Many cats rested more in winter in winter, but a substantial number actually rested less. Cat 2 appears to have the largest seasonal change. | There is no consistent pattern across all cats. Some become much lazier in winter, while others are more active in winter. |
 | Is anything confusing or difficult to read? | The middle section is slightly crowded because some values are very close together. | The colors and labels are clear, but it took a moment to realize that the cats are sorted by the size and direction of the seasonal change. |
 
 Synthesis: 
