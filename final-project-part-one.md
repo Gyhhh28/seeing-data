@@ -1,8 +1,5 @@
 | [home page](https://gyhhh28.github.io/seeing-data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 The WNBA has experienced substantial growth in attendance in recent seasons, but that growth has not been evenly distributed across games. This project will examine one particularly visible part of that change: the unusually high attendance associated with Indiana Fever games following Caitlin Clark's arrival in the WNBA in 2024. Rather than focusing on Clark as an individual athlete, I want to use this case to explore a broader question about audience demand in professional sports: can the arrival of one high-profile player create an attendance effect that extends beyond her own team's home market?
@@ -10,7 +7,6 @@ The WNBA has experienced substantial growth in attendance in recent seasons, but
 I plan to compare game-level attendance from the 2023, 2024, and 2025 WNBA seasons. The analysis will distinguish between overall league growth and the additional attendance associated with Indiana Fever road games. I will also examine whether teams moved Fever games to different or larger venues and whether the attendance pattern continued into 2025. The goal is not to claim that one player caused the WNBA's overall growth, but to investigate how much the Fever's attendance pattern differed from the broader changes happening across the league.
 
 # Project Structure
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 1. Establish the boom
 The story will begin with the broader rise in WNBA attendance from 2023 to 2025. This establishes an important baseline: attendance was already growing across the league, so higher attendance at Fever games cannot automatically be attributed to Caitlin Clark.
@@ -65,12 +61,13 @@ The analysis begins by establishing the league-wide attendance trend across the 
 
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+The final project will be presented as a scroll-based visual story using Shorthand, with the main data visualizations created in Tableau. The narrative will move from the league-wide attendance trend to game-level comparisons, differences across markets, venue changes, and the persistence of the pattern into 2025. Interactive elements will be used selectively when they help readers explore differences across teams or seasons, while the overall experience will remain guided by the story rather than structured as a standalone dashboard.
 
 ## References
-_List any references you used here._
+* SportsDataverse. *ESPN WNBA Schedules*. SportsDataverse Data Repository. Accessed September 2026. [Dataset](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_wnba_schedules)
+
+* WNBA. *WNBA Delivers Record-Setting 2024 Season*. September 27, 2024. [Official Release](https://www.wnba.com/news/wnba-delivers-record-setting-2024-season)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT as a brainstorming and editing tool during the development of this project proposal. It helped me refine the scope of my research question, think through possible ways to structure the story, and improve the clarity of some written sections. I also used AI to create rough visual mockups based on my planned visualization ideas._
