@@ -51,9 +51,9 @@ This visualization will compare each team's typical home attendance with attenda
 This visualization will show examples of teams moving Fever games to larger venues in response to higher expected demand.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The primary data source for this project is the ESPN WNBA schedule dataset published through SportsDataverse. It provides game-level records, with each row representing a single WNBA game. The analysis will focus on the 2023, 2024, and 2025 regular seasons, using variables such as game date, home and away teams, attendance, and venue. This level of detail makes it possible to examine differences across individual games and markets rather than relying only on league-wide season averages.
 
-Text here...
+The analysis begins by establishing the league-wide attendance trend across the three seasons. From there, attendance at Indiana Fever road games will be compared with other games hosted by the same teams, with 2023 serving as a pre-Clark baseline and 2024 and 2025 showing how the pattern changed over time. Venue information provides another dimension of the story by identifying games that were moved away from a team's usual home venue. When necessary, official WNBA reports and team or arena sources will provide additional context, particularly for information such as venue capacity.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
@@ -62,6 +62,13 @@ Text here...
 |      |     |             |
 |      |     |             |
 |      |     |             |
+
+| Name | Data | Description |
+|---|---|---|
+| ESPN WNBA Schedule Data | [Dataset](https://github.com/sportsdataverse/wehoop-wnba-data/releases/tag/espn_wnba_schedules) | Primary game-level dataset containing WNBA schedules, attendance, teams, and venue information across multiple seasons. |
+| 2023 WNBA Schedule | [CSV](https://github.com/sportsdataverse/wehoop-wnba-data/releases/download/espn_wnba_schedules/wnba_schedule_2023.csv) | Game-level data used as the pre-Clark baseline. |
+| 2024 WNBA Schedule | [CSV](https://github.com/sportsdataverse/wehoop-wnba-data/releases/download/espn_wnba_schedules/wnba_schedule_2024.csv) | Game-level data for Clark's rookie season and the primary season for examining the attendance effect. |
+| 2025 WNBA Schedule | [CSV](https://github.com/sportsdataverse/wehoop-wnba-data/releases/download/espn_wnba_schedules/wnba_schedule_2025.csv) | Game-level data used to examine whether the attendance pattern continued after 2024. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
