@@ -8,20 +8,20 @@ The project will compare game-level attendance across the 2023, 2024, and 2025 W
 
 # Project Structure
 
-1. Establish the boom
-The story will begin with the broader rise in WNBA attendance from 2023 to 2025. This establishes an important baseline: attendance was already growing across the league, so higher attendance at Fever games cannot automatically be attributed to Caitlin Clark.
+1. **Establish the boom**
+   The story will begin with the broader rise in WNBA attendance from 2023 to 2025. This establishes an important baseline: attendance was already growing across the league, so higher attendance at Fever games cannot automatically be attributed to Caitlin Clark.
 
-2. Find the outlier
-Next, I will compare Indiana Fever road games with other games hosted by the same teams. In 2023, before Clark entered the league, Indiana was a relatively ordinary visiting team. In 2024, Fever road games became unusually well attended compared with those teams' other home games.
+2. **Find the outlier**
+   Next, Indiana Fever road games will be compared with other games hosted by the same teams. The 2023 season will provide a baseline for determining whether Indiana was already an attendance outlier before Clark entered the league, while the 2024 season will show how that pattern changed after her arrival.
 
-3. Follow the effect across markets
-Rather than focusing only on Indiana's home attendance, I will examine how the pattern appeared in different WNBA markets. This will show whether the attendance premium traveled with the team and whether it was concentrated in only a few cities or appeared more broadly across the league.
+3. **Follow the effect across markets**
+   The analysis will then examine how the pattern appeared across different WNBA markets rather than focusing only on Indiana's home attendance. This comparison will show whether the attendance premium traveled with the team and whether it was concentrated in a few cities or appeared more broadly across the league.
 
-4. Look at how teams responded
-Attendance alone does not tell the entire story. I will also examine venue changes for Fever games. Some teams hosted Indiana in different or larger arenas, providing another way to observe how organizations responded to unusually high demand.
+4. **Look at how teams responded**
+   Attendance alone does not tell the entire story. Venue changes for Fever games will provide another measure of demand, particularly in cases where teams hosted Indiana in different or larger arenas.
 
-5. Test whether it lasted
-Finally, I will use the 2025 season to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
+5. **Test whether it lasted**
+   Finally, the 2025 season will be used to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
 
 # Initial sketches
 These sketches are conceptual and show the planned structure of the visualizations rather than final data values.
