@@ -7,26 +7,26 @@ The WNBA has experienced substantial growth in attendance in recent seasons, but
 The project will compare game-level attendance across the 2023, 2024, and 2025 WNBA seasons, separating broader league growth from the additional attendance associated with Indiana Fever road games. Venue changes will provide another measure of demand by showing whether teams moved Fever games to different or larger arenas. Comparing the pattern across all three seasons will also help determine whether the attendance effect persisted into 2025. Rather than attributing the WNBA's overall growth to a single player, the analysis will focus on how the Fever's attendance pattern differed from broader changes across the league.
 
 # Project Structure
-1. **Establish the boom**
+### 1. Establish the boom
 
-   The story will begin with the broader rise in WNBA attendance from 2023 to 2025. This establishes an important baseline: attendance was already growing across the league, so higher attendance at Fever games cannot automatically be attributed to Caitlin Clark.
+The story will begin with the broader rise in WNBA attendance from 2023 to 2025. This establishes an important baseline: attendance was already growing across the league, so higher attendance at Fever games cannot automatically be attributed to Caitlin Clark.
 
-2. **Find the outlier**
+### 2. Find the outlier
 
-   Next, Indiana Fever road games will be compared with other games hosted by the same teams. The 2023 season will provide a baseline for determining whether Indiana was already an attendance outlier before Clark entered the league, while the 2024 season will show how that pattern changed after her arrival.
+Next, Indiana Fever road games will be compared with other games hosted by the same teams. The 2023 season will provide a baseline for determining whether Indiana was already an attendance outlier before Clark entered the league, while the 2024 season will show how that pattern changed after her arrival.
 
-3. **Follow the effect across markets**
+### 3. Follow the effect across markets
 
-   The analysis will then examine how the pattern appeared across different WNBA markets rather than focusing only on Indiana's home attendance. This comparison will show whether the attendance premium traveled with the team and whether it was concentrated in a few cities or appeared more broadly across the league.
+The analysis will then examine how the pattern appeared across different WNBA markets rather than focusing only on Indiana's home attendance. This comparison will show whether the attendance premium traveled with the team and whether it was concentrated in a few cities or appeared more broadly across the league.
 
-4. **Look at how teams responded**
+### 4. Look at how teams responded
 
-   Attendance alone does not tell the entire story. Venue changes for Fever games will provide another measure of demand, particularly in cases where teams hosted Indiana in different or larger arenas.
+Attendance alone does not tell the entire story. Venue changes for Fever games will provide another measure of demand, particularly in cases where teams hosted Indiana in different or larger arenas.
 
-5. **Test whether it lasted**
+### 5. Test whether it lasted
 
-   Finally, the 2025 season will be used to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
-   
+Finally, the 2025 season will be used to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
+
 # Initial sketches
 These sketches are conceptual and show the planned structure of the visualizations rather than final data values.
 
