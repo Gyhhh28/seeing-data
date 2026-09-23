@@ -28,9 +28,27 @@ Attendance alone does not tell the entire story. I will also examine venue chang
 Finally, I will use the 2025 season to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+These sketches are conceptual and show the planned structure of the visualizations rather than final data values.
 
-Text here...
+### 1. League-wide growth
+![Sketch of league-wide WNBA attendance growth](sketch1.png)
+
+This visualization will establish the broader growth in WNBA attendance from 2023 to 2025.
+
+### 2. Indiana becomes the outlier
+![Sketch comparing Indiana with other visiting teams](sketch2.png)
+
+This visualization will compare Indiana with other visiting teams before and after Clark entered the league.
+
+### 3. The effect travels
+![Sketch comparing normal home attendance with Fever visits](sketch3.png)
+
+This visualization will compare each team's typical home attendance with attendance when the Fever visits.
+
+### 4. Bigger buildings
+![Sketch of venue changes for Fever games](sketch4.png)
+
+This visualization will show examples of teams moving Fever games to larger venues in response to higher expected demand.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
