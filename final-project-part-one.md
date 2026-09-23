@@ -4,7 +4,7 @@
 
 The WNBA has experienced substantial growth in attendance in recent seasons, but that growth has not been evenly distributed across games. This project will examine one particularly visible part of that change: the unusually high attendance associated with Indiana Fever games following Caitlin Clark's arrival in the WNBA in 2024. Rather than focusing on Clark as an individual athlete, I want to use this case to explore a broader question about audience demand in professional sports: can the arrival of one high-profile player create an attendance effect that extends beyond her own team's home market?
 
-I plan to compare game-level attendance from the 2023, 2024, and 2025 WNBA seasons. The analysis will distinguish between overall league growth and the additional attendance associated with Indiana Fever road games. I will also examine whether teams moved Fever games to different or larger venues and whether the attendance pattern continued into 2025. The goal is not to claim that one player caused the WNBA's overall growth, but to investigate how much the Fever's attendance pattern differed from the broader changes happening across the league.
+The project will compare game-level attendance across the 2023, 2024, and 2025 WNBA seasons, separating broader league growth from the additional attendance associated with Indiana Fever road games. Venue changes will provide another measure of demand by showing whether teams moved Fever games to different or larger arenas. Comparing the pattern across all three seasons will also help determine whether the attendance effect persisted into 2025. Rather than attributing the WNBA's overall growth to a single player, the analysis will focus on how the Fever's attendance pattern differed from broader changes across the league.
 
 # Project Structure
 
@@ -23,7 +23,7 @@ Attendance alone does not tell the entire story. I will also examine venue chang
 5. Test whether it lasted
 Finally, I will use the 2025 season to examine whether the pattern was primarily a first-year spike or whether an attendance premium remained after Clark's rookie season. The project will end by returning to the broader question: how much can one superstar reshape demand across an entire sports league?
 
-## Initial sketches
+# Initial sketches
 These sketches are conceptual and show the planned structure of the visualizations rather than final data values.
 
 ### 1. League-wide growth
@@ -39,7 +39,7 @@ This visualization will compare Indiana with other visiting teams before and aft
 ### 3. The effect travels
 ![Sketch comparing normal home attendance with Fever visits](sketch3.png)
 
-This visualization will compare each team's typical home attendance with attendance when the Fever visits.
+This visualization will compare each team's typical home attendance with attendance when the Fever visits. The 2024 and 2025 results will also be compared to show whether this pattern persisted beyond Clark's rookie season.
 
 ### 4. Bigger buildings
 ![Sketch of venue changes for Fever games](sketch4.png)
@@ -70,4 +70,4 @@ The final project will be presented as a scroll-based visual story using Shortha
 
 
 ## AI acknowledgements
-I used ChatGPT as a brainstorming and editing tool during the development of this project proposal. It helped me refine the scope of my research question, think through possible ways to structure the story, and improve the clarity of some written sections. I also used AI to create rough visual mockups based on my planned visualization ideas._
+I used ChatGPT as a brainstorming and editing tool during the development of this project proposal. It helped me refine the scope of my research question, think through possible ways to structure the story, and improve the clarity of some written sections. I also used AI to create rough visual mockups based on my planned visualization ideas.
