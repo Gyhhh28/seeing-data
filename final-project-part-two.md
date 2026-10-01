@@ -3,7 +3,46 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+## 1. Establishing the league-wide attendance boom
+
+![WNBA average regular-season attendance from 2023 to 2025](wnba_figure1.png)
+
+The first visualization establishes the broader context by showing the
+increase in average regular-season attendance from 2023 to 2025. Average
+attendance increased sharply from 2023 to 2024 and continued to grow in
+2025, although at a slower rate.
+
+## 2. Finding the outlier
+
+![Fever road games compared with other WNBA games](wnba_figure2.png)
+
+The second visualization shifts the focus to Indiana Fever road games.
+In 2023, attendance at Fever road games was only moderately higher than
+attendance at other regular-season games. In 2024, however, the gap
+became much larger, suggesting that Fever road games had become an
+unusual attendance draw within the broader league-wide increase.
+
+## 3. Following the effect across markets
+
+![Fever road attendance premium across WNBA markets](wnba_figure3.png)
+
+The third visualization examines the Fever road effect at the market
+level. Instead of relying only on a league-wide average, it compares
+attendance at Fever road games with each host team's typical home-game
+attendance. The comparison across 2024 and 2025 also begins to explore
+whether the effect persisted beyond its initial breakout season.
+
+## 4. How teams responded
+
+![Storyboard sketch showing how teams responded to increased demand](sketch4.png)
+
+The next stage of the story examines how WNBA teams responded to the
+increased demand surrounding Fever road games. In particular, I plan to
+look at cases where games were moved to larger venues and compare the
+additional seating capacity with actual attendance.
+
+This section remains at the storyboard stage for Part II and will be
+developed further for Part III.
 
 # User research 
 
