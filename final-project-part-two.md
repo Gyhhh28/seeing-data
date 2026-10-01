@@ -116,14 +116,9 @@ Based on the interviews, I identified several areas where the story and visualiz
 
 These findings reinforced the importance of designing the story for readers who do not already follow the WNBA. For Part III, my main priority will be improving the clarity of the market-level comparison and adding enough context for readers to understand why the Fever are important without requiring prior knowledge of the league. I also plan to be more careful about distinguishing patterns in the data from causal claims. The venue-response section will be developed further to help explain how arena size and scheduling decisions may have shaped some of the attendance patterns shown in the data.
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+The data sources used for the three draft visualizations are the same as those documented in [Part I](final-project-part-one). See Part I for the full list of data sources and links.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to help analyze the WNBA game-level attendance data in Python and create draft visualizations based on my story outline. I also used ChatGPT to brainstorm and refine my user research questions, organize interview findings, and improve the clarity and wording of my written explanations. 
