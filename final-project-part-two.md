@@ -78,16 +78,29 @@ I will avoid explaining the intended meaning of a visualization before participa
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+I interviewed three participants with different levels of familiarity with basketball. Interview 1 had little knowledge of basketball or the WNBA. Interview 2 regularly watches the NBA but does not follow the WNBA. Interview 3 follows other sports but has only limited familiarity with basketball. All three participants were shown the same storyboard and draft visualizations.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+The interviews suggested that the overall narrative was understandable, but the market-level visualization created more confusion than the first two charts. Differences in basketball familiarity also affected how much background information participants felt they needed.
 
+| Questions | Interview 1: Little/no basketball knowledge | Interview 2: NBA viewer | Interview 3: Other-sport fan |
+|---|---|---|---|
+| What do you think the main takeaway of the story is? | Understood that WNBA attendance increased significantly after 2023 and that Indiana Fever games seemed especially popular, but was initially unsure why the Fever were important. | Identified the main story as league-wide attendance growth combined with an unusually large attendance effect associated with Fever road games. | Understood that WNBA attendance was growing and that the Fever appeared to attract larger crowds when playing away from home. |
+| Were the individual visualizations easy to understand? | Found the first chart very easy to understand and the second chart mostly clear. The third chart required more time to interpret. | Found the first two charts straightforward. Understood the third chart after reading the axis label but thought it contained too much information at once. | Understood the first two charts quickly but found the large differences between markets in the third chart visually overwhelming. |
+| How do you interpret the relationship between overall WNBA growth and Fever road games? | Initially thought the Fever might be responsible for most of the overall WNBA attendance increase. After comparing the charts more carefully, understood that attendance was increasing across the league while Fever road games increased even more. | Clearly distinguished the league-wide increase from the additional attendance associated with Fever road games. | Understood that there were two patterns: general WNBA growth and an additional increase associated with Fever road games. |
+| What does "attendance premium" mean to you? | Was not sure what "premium" meant and initially associated the word with ticket prices. | Correctly interpreted it as the percentage increase in attendance relative to a team's other home games, but thought the term could be more explicit. | Understood that it meant additional attendance, but was initially unsure what baseline the percentages were being compared with. |
+| Was any additional context needed? | Wanted a short explanation of who Caitlin Clark is and why the Indiana Fever became important to the story. | Did not need basketball rules explained, but wanted more information about whether games were moved to larger arenas. | Wanted clearer context about why some markets showed much larger percentage increases than others. |
+| Did the story seem to claim that the Fever or Caitlin Clark caused the attendance increase? | Yes. The transition from league-wide growth to the Fever made the participant initially assume that Clark was being presented as the main cause of the overall increase. | Interpreted the charts as showing an association rather than proving causation, but suggested making that distinction explicit. | Felt that the story strongly connected the Fever with attendance growth, although it was not clear whether the intended claim was causal. |
+| Which visualization or information stood out the most? | The first chart because the increase from 2023 to 2024 was immediately visible. | The second chart because the difference between Fever road games and other games in 2024 was striking. | The third chart because some markets had extremely large attendance premiums, although those values also made the chart harder to compare. |
+| What would you change to make the story easier to understand? | Add a short introduction to the Fever/Caitlin Clark and replace "attendance premium" with simpler language. | Add venue information to explain whether arena size affected attendance and simplify the market-level comparison. | Make the baseline of the market comparison more obvious and explain the largest outliers rather than presenting all markets without additional context. |
+
+### Key findings
+
+Across all three interviews, the first two visualizations were easier to understand than the market-level comparison. The term "attendance premium" was a particular source of confusion, especially for participants with less basketball or data-analysis familiarity. Even the participant who understood the term suggested that the comparison baseline could be stated more explicitly.
+
+The interviews also revealed a potential narrative problem. Participants could distinguish league-wide attendance growth from the Fever road effect, but the transition between the two sometimes encouraged a stronger causal interpretation than the data supports. This suggests that the final story should explicitly distinguish overall WNBA growth from the additional attendance associated with Fever road games.
+
+Finally, participants wanted more context for the large differences between markets. In particular, venue size and games being moved to larger arenas may help explain some of the extreme values in the market-level visualization. This supports retaining the venue-response section of the story and connecting it more directly to the market-level analysis.
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
