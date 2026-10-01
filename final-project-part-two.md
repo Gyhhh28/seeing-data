@@ -1,7 +1,8 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://gyhhh28.github.io/seeing-data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+
+Building on the sketches from Part I, I developed three draft visualizations that represent the main stages of my story. The story begins with the broader growth in WNBA attendance, then focuses on the Indiana Fever as an attendance outlier, and finally examines whether the Fever road effect appeared across different markets and persisted into 2025.
 
 ## 1. Establishing the league-wide attendance boom
 
@@ -51,12 +52,12 @@ My target audience is general sports audiences with varying levels of familiarit
 
 To identify representative individuals for user research, I will use familiarity with basketball and the WNBA as the main selection criterion. Rather than selecting three participants with similar sports backgrounds, I will intentionally recruit people at different levels of basketball familiarity. This allows me to test whether the story works across the range of readers I hope to reach. I will look for participants who fit the following three profiles:
 
-A person with little or no basketball knowledge. This participant will help me evaluate whether the story provides enough context for someone unfamiliar with basketball and the WNBA.
+1. **A person with little or no basketball knowledge.** This participant will help me evaluate whether the story provides enough context for someone unfamiliar with basketball and the WNBA.
 
-An NBA viewer who does not regularly follow the WNBA. This participant understands basketball but has limited knowledge of the WNBA, allowing me to test whether the story communicates the Fever road effect clearly without requiring prior knowledge of the women's league.
+2. **An NBA viewer who does not regularly follow the WNBA.** This participant understands basketball but has limited knowledge of the WNBA, allowing me to test whether the story communicates the Fever road effect clearly without requiring prior knowledge of the women's league.
 
-A fan of another sport, such as volleyball, with limited basketball knowledge. This participant represents a general sports audience who is familiar with sports concepts but may not know much about professional basketball.
-
+3. **A fan of another sport, such as volleyball, with limited basketball knowledge.** This participant represents a general sports audience who is familiar with sports concepts but may not know much about professional basketball.
+4. 
 By deliberately selecting participants with different levels of basketball familiarity, I can compare where their interpretations are similar or different. In particular, I want to identify which parts of the story are confusing only to less familiar readers and which problems appear across all three audience types.
 
 
