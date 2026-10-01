@@ -118,7 +118,7 @@ These findings reinforced the importance of designing the story for readers who 
 
 
 ## References
-The data sources used for the three draft visualizations are the same as those documented in [Part I](final-project-part-one). See Part I for the full list of data sources and links.
+The data sources used for the three draft visualizations are the same as those documented in [Part I](https://gyhhh28.github.io/seeing-data/final-project-part-one). See Part I for the full list of data sources and links.
 
 ## AI acknowledgements
 I used AI to help analyze the WNBA game-level attendance data in Python and create draft visualizations based on my story outline. I also used ChatGPT to brainstorm and refine my user research questions, organize interview findings, and improve the clarity and wording of my written explanations. 
