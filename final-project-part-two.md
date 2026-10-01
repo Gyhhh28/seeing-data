@@ -103,21 +103,18 @@ The interviews also revealed a potential narrative problem. Participants could d
 Finally, participants wanted more context for the large differences between markets. In particular, venue size and games being moved to larger arenas may help explain some of the extreme values in the market-level visualization. This supports retaining the venue-response section of the story and connecting it more directly to the market-level analysis.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Based on the interviews, I identified several areas where the story and visualizations could be made clearer for readers with different levels of basketball knowledge.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| **Research synthesis** | **Anticipated changes for Part III** |
+|---|---|
+| The first two visualizations were generally easy to understand, but the market-level visualization required more effort to interpret. | Simplify the market-level visualization and reduce unnecessary visual complexity so that the comparison across markets is easier to scan. |
+| "Attendance premium" was not immediately clear to all participants, and some were unsure what the percentages were being compared against. | Replace or more clearly define "attendance premium" and explicitly state that Fever road-game attendance is being compared with the same team's other home games. |
+| Some participants initially interpreted the transition from league-wide growth to the Fever road effect as a causal claim about the Fever or Caitlin Clark. | Revise the narrative language to more clearly distinguish the overall WNBA attendance boom from the additional attendance associated with Fever road games, avoiding unsupported causal claims. |
+| Participants wanted more explanation for why some markets showed extremely large differences in attendance. | Develop the venue-response section further by examining cases where Fever road games were played in larger venues. This will provide additional context for some of the largest market-level differences. |
+| Participants with less WNBA knowledge wanted more context about why the Indiana Fever were central to the story. | Add a brief introduction before the Fever-specific analysis to establish the team's relevance without assuming prior WNBA knowledge. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+These findings reinforced the importance of designing the story for readers who do not already follow the WNBA. For Part III, my main priority will be improving the clarity of the market-level comparison and adding enough context for readers to understand why the Fever are important without requiring prior knowledge of the league. I also plan to be more careful about distinguishing patterns in the data from causal claims. The venue-response section will be developed further to help explain how arena size and scheduling decisions may have shaped some of the attendance patterns shown in the data.
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
