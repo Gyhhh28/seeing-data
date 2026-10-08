@@ -32,14 +32,23 @@ One thing I struggled with was getting everything to fit properly in Shorthand. 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+The main dataset for this project is the same one I used in Part I: the [ESPN WNBA schedule dataset published through SportsDataverse](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_wnba_schedules). I used game-level attendance data from the 2023, 2024, and 2025 regular seasons to compare league-wide trends and Indiana Fever road games across different markets.
+
+I also used official WNBA reports and team or arena information for additional context, especially when looking at games moved to larger venues. More details about the dataset and my original research plan can be found in [Part I](final-project-part-one).
+
+## AI acknowledgements
+I used ChatGPT throughout this project to brainstorm ideas, improve some of my writing, and discuss different ways to present the data. It was especially helpful when I was trying to simplify my charts and figure out how to make the story flow better.
+
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+What I'm most happy about is that this project gave me a chance to introduce the WNBA to people who don't usually follow women's basketball, or even women's sports in general. As someone who enjoys watching the WNBA, I wanted to share something that I personally care about, but in a way that would also be interesting to people who aren't already fans.
 
-Text here!
+I hope that someone who reads my story might become a little more curious about the WNBA, even if they've never watched a game before. For me, this project wasn't just about showing attendance numbers. It was also a chance to bring more attention to women's sports.
 
+If I had more time, I would want to look more closely at what actually drives attendance. For example, some Fever games were moved to much larger arenas, so I think it would be interesting to compare attendance with arena capacity and see how much that affected the numbers. I would also like to explore other factors, such as ticket prices, other popular players, or differences between cities. The data shows a clear pattern, but I know it doesn't tell us exactly why people decided to attend those games.
+
+On the design side, I would spend more time improving how the story looks on different screen sizes. Working with Shorthand was sometimes challenging, especially when trying to fit charts and text into full-screen layouts. I would also like to test the final version with more readers who aren't familiar with the WNBA, to see whether the story is as easy to follow as I hoped.
+
+Overall, I'm happy that I got to combine my interest in sports with what I've learned about data visualization and storytelling in this class. It also made me realize that data storytelling can be a way to share something I care about with people who might not have paid attention to it before.
 
