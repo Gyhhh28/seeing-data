@@ -35,7 +35,7 @@ One thing I struggled with was getting everything to fit properly in Shorthand. 
 
 The main dataset for this project is the same one I used in Part I: the [ESPN WNBA schedule dataset published through SportsDataverse](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_wnba_schedules). I used game-level attendance data from the 2023, 2024, and 2025 regular seasons to compare league-wide trends and Indiana Fever road games across different markets.
 
-I also used official WNBA reports and team or arena information for additional context, especially when looking at games moved to larger venues. More details about the dataset and my original research plan can be found in [Part I](final-project-part-one).
+I also used official WNBA reports and team or arena information for additional context, especially when looking at games moved to larger venues. More details about the dataset and my original research plan can be found in Part I.
 
 ## AI acknowledgements
 I used ChatGPT throughout this project to brainstorm ideas, improve some of my writing, and discuss different ways to present the data. It was especially helpful when I was trying to simplify my charts and figure out how to make the story flow better.
