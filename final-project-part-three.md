@@ -1,8 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-https://carnegiemellon.shorthandstories.com/the-fever-effect/index.html
-For my final project, I created a Shorthand story called The Fever Effect. I looked at WNBA attendance from 2023 to 2025, especially what happened when the Indiana Fever played on the road after Caitlin Clark joined the team in 2024.
+**[Read my final Shorthand story: The Fever Effect](https://carnegiemellon.shorthandstories.com/the-fever-effect/index.html)**
+
+For my final project, I created a Shorthand story called *The Fever Effect*. I looked at WNBA attendance from 2023 to 2025, especially what happened when the Indiana Fever played on the road after Caitlin Clark joined the team in 2024.
 
 I wanted to find out whether Indiana was really drawing unusually large crowds, or whether it was simply part of the overall growth of the WNBA. The story starts with the bigger picture, then looks at Indiana's road games, how attendance differed across cities, and whether the pattern continued in 2025.
 
