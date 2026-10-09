@@ -1,4 +1,5 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://gyhhh28.github.io/seeing-data/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 
 # The final data story
 **[Read my final Shorthand story: The Fever Effect](https://carnegiemellon.shorthandstories.com/the-fever-effect/index.html)**
@@ -31,12 +32,9 @@ I also tried to use different types of visuals instead of repeating the same cha
 One thing I struggled with was getting everything to fit properly in Shorthand. Some of my charts looked fine as images, but parts of the text or data got cut off when I uploaded them as full-screen backgrounds. I had to go back and adjust the font sizes, spacing, and chart layouts several times. It was frustrating, but it also made me realize that designing a visualization isn't just about making it look good. It also needs to work in the format where people will actually see it.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+The main dataset for this project is the same one I used in [Part I](final-project-part-one): the [ESPN WNBA schedule dataset published through SportsDataverse](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_wnba_schedules). I used game-level attendance data from the 2023, 2024, and 2025 regular seasons to compare league-wide trends and Indiana Fever road games across different markets.
 
-
-The main dataset for this project is the same one I used in Part I: the [ESPN WNBA schedule dataset published through SportsDataverse](https://github.com/sportsdataverse/sportsdataverse-data/releases/tag/espn_wnba_schedules). I used game-level attendance data from the 2023, 2024, and 2025 regular seasons to compare league-wide trends and Indiana Fever road games across different markets.
-
-I also used official WNBA reports and team or arena information for additional context, especially when looking at games moved to larger venues. More details about the dataset and my original research plan can be found in Part I.
+I also used the [WNBA's 2024 season report](https://www.wnba.com/news/wnba-delivers-record-setting-2024-season) for additional context about the league's attendance growth. For the section about games moving to larger arenas, I referred to announcements from the [Washington Mystics](https://mystics.wnba.com/news/washington-mystics-move-june-7-game-against-indiana-fever-to-capital-one-arena) and [Atlanta Dream](https://www.statefarmarena.com/news/detail/atlanta-dream-to-host-two-indiana-fever-games-at-state-farm-arena).
 
 ## AI acknowledgements
 I used ChatGPT throughout this project to brainstorm ideas, improve some of my writing, and discuss different ways to present the data. It was especially helpful when I was trying to simplify my charts and figure out how to make the story flow better.
